@@ -7,9 +7,7 @@ A Flutter project that utilizes the power of the `flutter_inappwebview` package 
 This project serves as a starting point for your Flutter application. Whether you're a beginner or an experienced developer, you'll find helpful resources here to kickstart your journey.
 
 
-## 📸 Screenshots
 
-Here are some snapshots showcasing the app's interface and functionality:
 
 <h2>📸 Screenshots</h2>
 <div align="center">
