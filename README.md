@@ -11,12 +11,14 @@ This project serves as a starting point for your Flutter application. Whether yo
 
 <h2>📸 Screenshots</h2>
 <div align="center">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/4d487dfa-5423-4472-a86c-b3efc041c4bb" width="300" alt="Screenshot 1">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/41dc32b5-fc4f-4714-b456-8e54d0f901ed" width="300" alt="Screenshot 2">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/96356620-7bdf-454f-b593-f1c636d88fbf" width="300" alt="Screenshot 3">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/8b1eaf56-6d28-40a5-b3c0-d3cdd462ac0c" width="300" alt="Screenshot 4">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/b9b750f3-ba07-4f8f-af64-283ee2ebc71c" width="300" alt="Screenshot 5">
-    <img src="https://github.com/tvishabhatt/Mirror_wall-Pr2/assets/122964289/62722d8e-50c7-4226-a72d-45cd5adc4df4" width="300" alt="Screenshot 6">
+    <img src="https://github.com/user-attachments/assets/d781a196-9244-4487-ace4-157ab817bb87"
+ width="300" alt="Screenshot 1">
+    <img src="https://github.com/user-attachments/assets/6accd1e8-53ee-4a75-a391-e4009e8c2063
+" width="300" alt="Screenshot 2">
+    <img src="https://github.com/user-attachments/assets/f75e02bf-e008-47bc-8630-6382723ca985" width="300" alt="Screenshot 3">
+    <img src="https://github.com/user-attachments/assets/577d1d10-a2b3-4302-abab-21502683b219" width="300" alt="Screenshot 4">
+    <img src="https://github.com/user-attachments/assets/79ffc1e2-0472-45b8-b101-666f05cd05cd" width="300" alt="Screenshot 5">
+  
 </div>
 
 ## 🌟 Features
